@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+.main{
+	width: 100%;
+	height: 800px;
+	background: #fff;
+	margin: 0 auto;
+}
+
+.play{
+	margin: 0 auto;
+}
+
+.header{
+	width: 100%;
+	height: 60px;
+	margin: 0 auto;
+}
+
+.centers{
+	width: 100%;
+	margin: 0 auto;
+}
+.footer{
+	width: 100%;
+	height: 90px;
+	margin: 0 auto;
+}
+
+.color1{
+	background: #FF8789
+}
+
+.color2{
+	background: #79E9FC
+}
+
+.color3{
+	background: #F97BD9
+}
+
+.color4{
+	background: #915DFF
+}
+
+.color5{
+	background: #78FDCE
+}

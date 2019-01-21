@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<addresslist>
+
+<linkman>
+
+<name>张三</name>
+
+<id>001</id>
+
+<company>中国江西</company>
+
+<tel>10086</tel>
+
+<site>www.baidu.com</site>
+
+</linkman>
+
+</addresslist>
