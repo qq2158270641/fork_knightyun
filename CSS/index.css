@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+
+.movie-chrList {
+    width: 712px;
+	min-height: 300px;
+	margin: 0 auto;
+	padding: 20px 3px 20px 3px;
+    border: 1px;
+	border-color: #97C3E5;
+    overflow: hidden;
+}
+
+.movie-chrList ul {
+	margin: 0 auto;
+	padding: 0;
+}
+
+.movie-chrList li {
+	list-style-type: none;
+	display: block;
+    float: left;
+    width: 150px;
+    min-height: 200px;
+    margin: 13px 13px 13px 13px;
+	padding: 0;
+    overflow: hidden;
+    border: 1px;
+	border-color: #ddd;
+}
+
+.movie-chrList div.cover {
+    padding: 11px 13px 5px 13px;
+}
+
+.movie-chrList img {
+    display: block;
+    width: 120px;
+    height: 160px;
+    padding: 1px;
+    border: 1px solid #dedede;
+}
+
+.movie-chrList div.intro{
+}
+
+.movie-chrList span {
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    height: 21px;
+    line-height: 21px;
+    overflow: hidden;
+    padding-bottom: 3px;
+}
+
+.movie-chrList div.intro span a{
+	text-decoration: none;
+	display: block;
+}
+
+.movie-chrList div.intro span a:hover{
+	text-decoration: underline; 
+}
+
+.movie-chrList em {
+	font-size: 15px;
+    padding: 0px 10px 0px 10px;
+    display: block;
+    font-style: normal;
+    line-height: 22px;
+    height: 22px;
+    overflow: hidden;
+}

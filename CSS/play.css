@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+
+.play-box{
+    width: 720px;
+    margin: 0 auto;
+    padding: 10px 0px 10px 0px;
+	overflow: hidden;
+}
+
+.play-title{
+	width: 710px;
+	margin-left: 10px;
+	padding: 0px 0px 10px 0px;
+	text-align: left;
+}
+
+.play{
+	width: 720px;
+	margin: 0 auto;
+}
+
+.play-tool{
+	width: 720px;
+	min-height: 22px;
+	margin: 0 auto;
+	padding: 60px 0px 0px 0px;
+}
+
+.play-tool ul{
+	margin: 0 auto;
+	padding: 0;
+	overflow: hidden;
+}
+
+.play-tool li{
+	float: left;
+	display: block;
+	list-style-type: none;
+	border: 1px #3B3B3B;
+	margin: 19px 19px 19px 19px;
+	width: 200px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	font-size: 20px;
+	background-color: #37F859;
+	overflow: hidden;
+	padding: 0;
+}
+
+.play-tool li:link { background-color: #37F859; }
+.play-tool li:visited { background-color: #37F859; }
+.play-tool li:hover { background-color: #83FD79; }
+.play-tool li:active { background-color: #249D06; }
+
+.play-tool a{
+	display: block;
+	text-decoration: none;
+}

@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+.header{
+	width: 100%;
+	margin: 0 auto;
+}
+
+.header-m{
+	width: 100%;
+	height: 170px;
+	margin: 0 auto;
+	background-image: url("../image/CM3D2-艾尔之光-伊芙 炽天女王 searlet leap.jpg");
+    background-size: 100%;
+}
+
+.nav{
+	width: 720px;
+	min-height: 30px;
+	height: auto;
+	margin: 0 auto;
+	padding: 5px 0px 5px 0px;
+}
+
+.nav ul{
+	width: 720px;
+	min-height: 30px;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	overflow: hidden;
+}
+
+.nav li{
+	width: 60px;
+    height: 30px;
+	line-height: 30px;
+	text-align: center;
+	display: block;
+	float: left;
+	list-style-type: none;
+	overflow: hidden;
+	padding: 0;
+}
+
+.nav a{
+	text-decoration: none;
+}
+
+.nav a:link { color:#1A92CB; text-decoration:none; }
+.nav a:visited { color:#1A92CB; text-decoration:none; }
+.nav a:hover { color:#3EB0E6; text-decoration:underline; }
+.nav a:active { color:#116187; text-decoration:underline; }
+
+.centers{
+	width: 100%;
+	margin: 0 auto;
+}
+
+.footer{
+	width: 100%;
+	height: 300px;
+	margin: 0 auto;
+}
+
+.color1 { background: #FF8789; }
+
+.color2 { background: #79E9FC; }
+
+.color3 { background: #F97BD9; }
+
+.color4 { background: #915DFF; }
+
+.color5 { background: #78FDCE; }
